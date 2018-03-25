@@ -13,10 +13,12 @@ We can paste taskpaper to OmniFocus for importing todo.
 2. Convert to JSON from the csv
 3. Load the JSON to index.js
 
+```
     npm install
     node index.js ./secret.json 
     # output TaskPaper format
     # Paste this to OmniFocus
+```
 
 ## Changelog
 
