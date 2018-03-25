@@ -9,7 +9,7 @@ We can paste taskpaper to OmniFocus for importing todo.
 
 ## Usage
 
-1. Download ticktick csv.
+1. Download ticktick backup csv file.
 2. Convert to JSON from the csv
 3. Load the JSON to index.js
 
