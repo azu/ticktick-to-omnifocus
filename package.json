@@ -1,0 +1,32 @@
+{
+  "name": "csv-to-taskpaper",
+  "version": "1.0.0",
+  "description": "CSV to Taskpaper",
+  "homepage": "https://github.com/azu/csv-to-taskpaper",
+  "bugs": {
+    "url": "https://github.com/azu/csv-to-taskpaper/issues"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/csv-to-taskpaper.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/csv-to-taskpaper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "indent-string": "^3.2.0",
+    "moment": "^2.21.0"
+  }
+}
